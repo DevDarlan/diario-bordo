@@ -1,0 +1,24 @@
+[
+    {
+        "ID": 1,
+        "data": "29/03/2025",
+        "hora_inicial": "22:07",
+        "km_inicial": 32333,
+        "hora_final": "22:10",
+        "km_final": 333333,
+        "destino": "Bordado, Serigrafia, Facção 1, Facção 2",
+        "total_km": 301000,
+        "tempo_levado": "00:03"
+    },
+    {
+        "ID": 2,
+        "data": "29/03/2025",
+        "hora_inicial": "22:47",
+        "km_inicial": 0,
+        "hora_final": "22:47",
+        "km_final": 0,
+        "destino": "Bordado, Serigrafia, Facção 1, Facção 2",
+        "total_km": 0,
+        "tempo_levado": "00:00"
+    }
+]
