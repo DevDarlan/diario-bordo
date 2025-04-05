@@ -1,5 +1,9 @@
+pip freeze > requirements.txt
+git add requirements.txt
+git commit -m "Adiciona requirements.txt"
+git push
+
 streamlit==1.32.0
 pandas==2.1.4
 openpyxl==3.1.2
 python-dotenv==1.0.0
-sqlite3==2.6.0
